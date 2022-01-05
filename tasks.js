@@ -25,7 +25,7 @@ var lastName;
 //console.log(fullName) // you should see your full name on the console ;)
 
 /**flow control statement */
-//5. create a function called 'isEven' that receives a number & return true if this number is even other otherwise false
+//5. create a function called 'isEven' that receives a number & return true if this number is even other otherwise  return false
 
 //after that uncomment the next 2 lines
 //console.log(isEven(5)) //false
@@ -40,3 +40,8 @@ var lastName;
 
 //after that uncomment the next line
 //console.log(getGeneration(2001)) // 'generation z'
+
+//7. create a function called 'getGeneration2' that do the same task as the previous question(6) but using 'switch' statement instead
+
+//after that uncomment the next line
+//console.log(getGeneration2(2001)) // 'generation z'
