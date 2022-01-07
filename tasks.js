@@ -65,17 +65,17 @@ function getGeneration(G) {
 console.log(getGeneration(2001)) // 'generation z'
 
 //7. create a function called 'getGeneration2' that do the same task as the previous question(6) but using 'switch' statement instead
-function getGeneration2(G2) {
+/*function getGeneration2(G2) {
     switch (G2) {
         case (G2 <= 1981 && G2 <= 1996):
             return ("generation x");
-        case (G >=1997 && G <= 2012):
+        case (G2 >=1997 && G2 <= 2012):
             return ("generation z");
-        case (G >= 2013):
+        case (G2 >= 2013):
             return ("generation Alpha")
         default: ("boomer")
             break;
     }
 }
 //after that uncomment the next line
-console.log(getGeneration2(2001)) // 'generation z'
+console.log(getGeneration2(2001)) // 'generation z'*/
