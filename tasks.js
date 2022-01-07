@@ -76,6 +76,8 @@ function getGeneration(year){
 console.log(getGeneration(2001)) // 'generation z'
 
 //7. create a function called 'getGeneration2' that do the same task as the previous question(6) but using 'switch' statement instead
-
+function getGeneration2(){
+    
+}
 //after that uncomment the next line
-//console.log(getGeneration2(2001)) // 'generation z'
+console.log(getGeneration2(2001)) // 'generation z'
